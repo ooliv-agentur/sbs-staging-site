@@ -1,0 +1,31 @@
+# SBS Strategie Wirtschaftsberatung GmbH & Co. KG
+
+> SBS Strategie ist eine betriebswirtschaftliche Beratungseinheit aus
+> Magdeburg, deutschlandweit tätig. Sie unterstützt Unternehmer und
+> Geschäftsführungen mittelständischer Unternehmen bei Steuerung, Liquidität,
+> Strukturen und Abläufen. Claim: „Beratung von Mensch zu Mensch!“
+
+Strukturierter Einstieg ist die SBS-Unternehmensinspektion: Zahlen, Abläufe
+und Strukturen werden gemeinsam eingeordnet und Maßnahmen priorisiert. Dazu
+kommen vier Leistungsbereiche: Restrukturierung, Controlling / Virtual CFO,
+Prozesse & Digitalisierung sowie Finanzierung & Fördermittel. Gründer,
+Geschäftsführer und erster Ansprechpartner ist Steffen B. Sachs.
+Rechtsberatung, insbesondere insolvenzrechtliche Beratung, ist ausdrücklich
+nicht Teil der Restrukturierungsarbeit.
+
+## Pages
+
+- [Startseite](/): Einstieg über typische unternehmerische Situationen und den passenden Leistungsbereich.
+- [Unternehmensinspektion](/unternehmensinspektion): Anlässe, Prüffelder, drei Phasen und Ergebnisse des strukturierten Einstiegs.
+- [Leistungen](/leistungen): Überblick über die Unternehmensinspektion und die vier Leistungsbereiche.
+- [Restrukturierung](/leistungen/restrukturierung): Lage transparent machen und Maßnahmen nach Wirkung ordnen, bevor Druck zur Krise wird.
+- [Controlling / Virtual CFO](/leistungen/controlling-virtual-cfo): Kennzahlensystem, Auswertungen und begleitende Finanzsicht für Entscheidungen.
+- [Prozesse & Digitalisierung](/leistungen/prozesse-digitalisierung): Abläufe, Verantwortlichkeiten und Datenflüsse ordnen, bevor Werkzeuge entscheiden.
+- [Finanzierung & Fördermittel](/leistungen/finanzierung-foerdermittel): Vorhaben wirtschaftlich vorbereiten und Zahlen für Kapitalgeber nachvollziehbar aufbereiten.
+- [Über uns](/ueber-uns): SBS Strategie und Steffen B. Sachs.
+- [Kontakt](/kontakt): Telefon 0391 251 947 20, E-Mail steffen.sachs@sbs-strategie.de, Sudenburger Wuhne 61, 39116 Magdeburg.
+
+## Optional
+
+- [Impressum](/impressum)
+- [Datenschutz](/datenschutz)
